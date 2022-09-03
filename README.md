@@ -9,7 +9,9 @@ The File extensively uses curl API's
 If you are new to curl , this will be a good pooint to start with 
 https://curl.se/
 
-The Below Link is the Oracle REST API's for Oracle Golden Gate
+The Below Link is the Oracle REST API's for Oracle Golden Gate ,
+this will help get a good understanding on how REST API's are used for OCI OGG Administration Tasks
+
 https://docs.oracle.com/goldengate/c1230/gg-winux/OGGRA/index.html
 
 # Usage of the file 
