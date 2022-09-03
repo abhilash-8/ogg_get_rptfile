@@ -14,7 +14,7 @@ https://docs.oracle.com/goldengate/c1230/gg-winux/OGGRA/index.html
 
 # Usage of the file 
 
-Usage is ogg_get_rptfile.sh <DEP_NAME> <REPEXT_NAME> <REPEXT>
+Usage is $ ./ogg_get_rptfile.sh <DEP_NAME> <REPEXT_NAME> <REPEXT>
 
 DEP_NAME    - Refers to the Deployment Name ( The script uses 2 Deployments DEP1 and DEP2 ) , change it as you need
 REPEXT_NAME - Refers to the Replicat or Extract Name being used 
