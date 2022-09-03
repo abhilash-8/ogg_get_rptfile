@@ -21,7 +21,9 @@ REPEXT_NAME - Refers to the Replicat or Extract Name being used
 REPEXT      - Refers is the name is either an extract or Replicat
 
 # Pre-requisites 
-The availablity of the .netrc file for curl Authentication is needed 
+1) The availablity of the .netrc file for curl Authentication is needed 
+2) jq is needed for JSON parsing
+3) Python 2.7.5 or higher (preferably) to use json.tool
 
 # Example
 
