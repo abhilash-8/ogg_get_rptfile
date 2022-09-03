@@ -3,11 +3,11 @@ This file basicallly "gets" Deployment Files for OCI OGG ( Oracle Golden Gate ) 
 
 # Why to use ogg_get_rptfile.sh
 
-Very often as an OGG Adminmistrator you will have to handle with a lot of OGG Issues ,
-such as process abending , lag in extracts or replicats , the naviagation of Web UI OGG Deployment will be a tedious task ,
+Very often as an OGG Administrator you will have to handle with a lot of OGG Issues ,
+such as process abending , lag in extracts or replicats , the navigation of Web UI OGG Deployment will be a tedious task ,
 I have created this utility to get all the report files downloaded. 
 
-This is alos a handy utility when you need to get all the report log files for analysis or uploading to MOS SR's
+This is also a handy utility when you need to get all the report log files for analysis or uploading to MOS SR's
 
 
 # Understanding the file ogg_get_rptfile.sh
