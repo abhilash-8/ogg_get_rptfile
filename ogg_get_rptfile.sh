@@ -97,7 +97,3 @@ curl -n -H "Content-Type: application/json" -H "Accept: application/json" -X GET
 curl -n -H "Content-Type: application/json" -H "Accept: application/json" -X GET $REP_URL | python -m json.tool >> $RPT_NAME
 
 echo Report file downloaded at $RPT_NAME
-
-echo "DBA_APPLY_ERRORS"
-grep -rnw ${RPT_NAME}-rpt.log -B 10 -A 10 -e"DBA_APPLY" > /tmp/dba_apply_errors.txt
-cat /tmp/dba_apply_errors.txt
