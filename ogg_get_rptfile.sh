@@ -97,3 +97,4 @@ curl -n -H "Content-Type: application/json" -H "Accept: application/json" -X GET
 curl -n -H "Content-Type: application/json" -H "Accept: application/json" -X GET $REP_URL | python -m json.tool >> $RPT_NAME
 
 echo Report file downloaded at $RPT_NAME
+
