@@ -30,6 +30,7 @@ $ cat .netrc
 machine         aaaaaaaaaaa.deployment.goldengate.ap-mumbai-1.oci.oraclecloud.com login           apiuser  password        putyourpasshere123#
 
 -- Getting all the report files for a Replicat
+ 
  $ ./ogg_get_rptfile.sh DEP1 MYREP REP
 
 -- Getting all the report files for a Extract
