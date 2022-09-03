@@ -36,6 +36,9 @@ REPEXT      - Refers is the name is either an extract or Replicat
 2) jq is needed for JSON parsing
 3) Python 2.7.5 or higher (preferably) to use json.tool
 
+OGG Deployment splits the report files into 9 parts for some reason , 
+this script merges all the report files into a single file which helps in my investigation.
+
 # Example
 
 -- Ensure you have your .netrc set up 
