@@ -27,6 +27,7 @@ The availablity of the .netrc file for curl Authentication is needed
 
 -- Ensure you have your .netrc set up 
 $ cat .netrc
+ 
 machine         aaaaaaaaaaa.deployment.goldengate.ap-mumbai-1.oci.oraclecloud.com login           apiuser  password        putyourpasshere123#
 
 -- Getting all the report files for a Replicat
